@@ -2,36 +2,36 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://gridea-dupl.netlify.app/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "有机课件",
+    "link": "https://rec.ustc.edu.cn/share/8df09600-8079-11ee-a3d4-29a94da77f0e"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "有机讲义",
+    "link": "https://mp.weixin.qq.com/mp/homepage?__biz=MzkwNzUwOTg5Ng==&hid=1&sn=67c301f9c6b491a7fbfce0c0bf28d71e"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "个人主页",
+    "link": "https://dupl.netlify.app/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "速查表",
+    "link": "https://jaywcjlove.github.io/reference"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "link": "https://m.weibo.cn/p/index?containerid=106003type%3D25%26t%3D3%26disable_hot%3D1%26filter_type%3Drealtimehot"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "硼锂AI",
+    "link": "https://chatbot.weixin.qq.com/webapp/0eoJGspXnewLiVZLcrtLH8YKhdFF6q?robotName=%E7%A1%BC%E9%94%82AI"
   }
 ]
